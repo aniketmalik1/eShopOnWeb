@@ -9,7 +9,7 @@ env:
   LOCATION: <region>
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 52496c02-0b85-4525-b064-29095801fcaa
-  WEBAPP-NAME: aniketwebapp.com
+  WEBAPP-NAME: aniketwebapp123
 
 jobs:
   #Build, test and publish .net web project in repository
