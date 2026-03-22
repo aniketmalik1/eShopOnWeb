@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 52496c02-0b85-4525-b064-29095801fcaa
-  WEBAPP-NAME: az400-webapp-ani.azurewebsities.net
+  WEBAPP-NAME: eshoponweb-app018
 
 jobs:
   #Build, test and publish .net web project in repository
